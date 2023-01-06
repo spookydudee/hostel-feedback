@@ -1,7 +1,8 @@
 
+
 import './App.css';
 
-function App() {
+function student() {
   return (
     <div className="App">
       hello
@@ -9,4 +10,4 @@ function App() {
   );
 }
 
-export default App;
+export default student;
